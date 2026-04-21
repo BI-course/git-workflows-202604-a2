@@ -16,3 +16,20 @@ Refer to the files in the order specified below for more details:
 
 - [lab_instructions_part1.md](lab_instructions_part1.md)
 - [lab_instructions_part2.md](lab_instructions_part2.md)
+
+
+| Member 1 | Team Lead / Repository Setup | #1 |
+| Member 2 | Data Sources Research | #2 |
+| Member 3 | Star Schema Research | #3 |
+| Member 4 | ETL/ELT/EtLT Research | #4 |
+| Member 5 | Data Governance Research | #5 |
+
+## Project Overview
+This project explores core Business Intelligence concepts including
+data sources, warehouse schema design, data pipelines, and governance.
+
+## Repository Structure
+- `data_source.md` — Primary BI data source categories
+- `warehouse_schema.md` — Star Schema design
+- `data_pipeline.md` — ETL, ELT, and EtLT pipelines
+- `governance.md` — Data governance and PII access
